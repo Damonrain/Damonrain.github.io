@@ -2,7 +2,7 @@
 layout: post
 title:  "apply函数族简介"
 date:   2016-08-10 00:00:00 +0800
-categories: R
+categories: 技术相关
 tag: R
 ---
 
