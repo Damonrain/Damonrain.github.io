@@ -16,8 +16,7 @@ icon: glyphicon-heart
 
 ### 联系我
 
-* email：[yuying_ruc@163.com](mailto:{{ site.email }})
-* QQ：1764785945
+* email：[Damonrain](mailto:{{ site.email }})
 
 ---
 
