@@ -56,7 +56,7 @@ tar [-j|-z] [xv] [-f 新建的文件名] [-C 目录]  #解压缩
 -v: 在压缩/解压缩的过程中，将正在处理的文件名显示出来
 ```
 
-简单总结  
+## 总结  
 **压缩：tar -jcv -f filename.tar.bz2 要被压缩的文件或目录名称**  
 **查询：tar -jtv -f filename.tar.bz2**  
 **解压缩：tar -jxv -f filename.tar.bz2 -C 欲解压缩的目录**
